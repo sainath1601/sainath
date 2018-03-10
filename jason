@@ -1,0 +1,306 @@
+{
+	"chapters":[
+				{ 
+				              "contents":"TECHNOLOGY",
+                              "questions": [{
+                              				"question":"In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+                              				"options":["1850","1880","1950","1980"],
+                              				"answer":"1880",
+                              				"hint":"It was formed before Institute of Electrical and Electronics Engineers"
+                              				},
+											{
+                              				"question":"What is part of a database that holds only one type of information?",
+                              				"options":["report","field","record","file"],
+                              				"answer":"field",
+                              				"hint":"in java it is a  is a class, interface, or enum with an associated value"
+                              				}
+
+                              			]
+
+							},
+                { 
+				              "contents":"history",
+                              "questions":[{
+                              				"question":"Who is the founder of Haryanka Dynasty? ",
+                              				"options":["Ajatshatru","Harshvardhan","Bimbisar"],
+                              				"answer":"Bimbisar",
+                              				"hint":"It is in south"
+                              				},
+											{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				
+                        { 
+                                      "contents":"TECHNOLOGY",
+                              "questions": [{
+                                                      "question":"In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+                                                      "options":["1850","1880","1950","1980"],
+                                                      "answer":"1880",
+                                                      "hint":"It was formed before Institute of Electrical and Electronics Engineers"
+                                                      },
+                                                                  {
+                                                      "question":"What is part of a database that holds only one type of information?",
+                                                      "options":["report","field","record","file"],
+                                                      "answer":"field",
+                                                      "hint":"in java it is a  is a class, interface, or enum with an associated value"
+                                                      }
+
+                                                ]
+
+                                          },
+                { 
+                                      "contents":"history",
+                              "questions":[{
+                                                      "question":"Who is the founder of Haryanka Dynasty? ",
+                                                      "options":["Ajatshatru","Harshvardhan","Bimbisar"],
+                                                      "answer":"Bimbisar",
+                                                      "hint":"It is in south"
+                                                      },
+                                                                  {
+                                                      "question":"What is the PM of India?",
+                                                      "options":["MODI","KD"],
+                                                      "answer":"MODI",
+                                                      "hint":"He will be always flying"
+                                                      }
+                                                ]
+
+                                          },
+				{ 
+				              "contents":"RAJASTHAN",
+                              "questions":[{
+                              				"question":"What is the Capital of Rajasthan?",
+                              				"options":["Jaipur","Madurai"],
+                              				"answer":"Jaipur",
+                              				"hint":"It is called as Pink City of India"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				
+                        { 
+                                      "contents":"TECHNOLOGY",
+                              "questions": [{
+                                                      "question":"In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+                                                      "options":["1850","1880","1950","1980"],
+                                                      "answer":"1880",
+                                                      "hint":"It was formed before Institute of Electrical and Electronics Engineers"
+                                                      },
+                                                                  {
+                                                      "question":"What is part of a database that holds only one type of information?",
+                                                      "options":["report","field","record","file"],
+                                                      "answer":"field",
+                                                      "hint":"in java it is a  is a class, interface, or enum with an associated value"
+                                                      }
+
+                                                ]
+
+                                          },
+                { 
+                                      "contents":"history",
+                              "questions":[{
+                                                      "question":"Who is the founder of Haryanka Dynasty? ",
+                                                      "options":["Ajatshatru","Harshvardhan","Bimbisar"],
+                                                      "answer":"Bimbisar",
+                                                      "hint":"It is in south"
+                                                      },
+                                                                  {
+                                                      "question":"What is the PM of India?",
+                                                      "options":["MODI","KD"],
+                                                      "answer":"MODI",
+                                                      "hint":"He will be always flying"
+                                                      }
+                                                ]
+
+                                          },
+				{ 
+				              "contents":"GOA",
+                              "questions":[{
+                              				"question":"What is the Capital of Goa?",
+                              				"options":["Delhi","Panaji"],
+                              				"answer":"Panaji",
+                              				"hint":"It is in Goa"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}]
+
+							},
+				
+                        { 
+                                      "contents":"TECHNOLOGY",
+                              "questions": [{
+                                                      "question":"In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+                                                      "options":["1850","1880","1950","1980"],
+                                                      "answer":"1880",
+                                                      "hint":"It was formed before Institute of Electrical and Electronics Engineers"
+                                                      },
+                                                                  {
+                                                      "question":"What is part of a database that holds only one type of information?",
+                                                      "options":["report","field","record","file"],
+                                                      "answer":"field",
+                                                      "hint":"in java it is a  is a class, interface, or enum with an associated value"
+                                                      }
+
+                                                ]
+
+                                          },
+                { 
+                                      "contents":"history",
+                              "questions":[{
+                                                      "question":"Who is the founder of Haryanka Dynasty? ",
+                                                      "options":["Ajatshatru","Harshvardhan","Bimbisar"],
+                                                      "answer":"Bimbisar",
+                                                      "hint":"It is in south"
+                                                      },
+                                                                  {
+                                                      "question":"What is the PM of India?",
+                                                      "options":["MODI","KD"],
+                                                      "answer":"MODI",
+                                                      "hint":"He will be always flying"
+                                                      }
+                                                ]
+
+                                          },
+				
+                        { 
+                                      "contents":"TECHNOLOGY",
+                              "questions": [{
+                                                      "question":"In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+                                                      "options":["1850","1880","1950","1980"],
+                                                      "answer":"1880",
+                                                      "hint":"It was formed before Institute of Electrical and Electronics Engineers"
+                                                      },
+                                                                  {
+                                                      "question":"What is part of a database that holds only one type of information?",
+                                                      "options":["report","field","record","file"],
+                                                      "answer":"field",
+                                                      "hint":"in java it is a  is a class, interface, or enum with an associated value"
+                                                      }
+
+                                                ]
+
+                                          },
+                { 
+                                      "contents":"history",
+                              "questions":[{
+                                                      "question":"Who is the founder of Haryanka Dynasty? ",
+                                                      "options":["Ajatshatru","Harshvardhan","Bimbisar"],
+                                                      "answer":"Bimbisar",
+                                                      "hint":"It is in south"
+                                                      },
+                                                                  {
+                                                      "question":"What is the PM of India?",
+                                                      "options":["MODI","KD"],
+                                                      "answer":"MODI",
+                                                      "hint":"He will be always flying"
+                                                      }
+                                                ]
+
+                                          },
+			   
+                        { 
+                                      "contents":"TECHNOLOGY",
+                              "questions": [{
+                                                      "question":"In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+                                                      "options":["1850","1880","1950","1980"],
+                                                      "answer":"1880",
+                                                      "hint":"It was formed before Institute of Electrical and Electronics Engineers"
+                                                      },
+                                                                  {
+                                                      "question":"What is part of a database that holds only one type of information?",
+                                                      "options":["report","field","record","file"],
+                                                      "answer":"field",
+                                                      "hint":"in java it is a  is a class, interface, or enum with an associated value"
+                                                      }
+
+                                                ]
+
+                                          },
+                { 
+                                      "contents":"history",
+                              "questions":[{
+                                                      "question":"Who is the founder of Haryanka Dynasty? ",
+                                                      "options":["Ajatshatru","Harshvardhan","Bimbisar"],
+                                                      "answer":"Bimbisar",
+                                                      "hint":"It is in south"
+                                                      },
+                                                                  {
+                                                      "question":"What is the PM of India?",
+                                                      "options":["MODI","KD"],
+                                                      "answer":"MODI",
+                                                      "hint":"He will be always flying"
+                                                      }
+                                                ]
+
+                                          },
+ 				
+                        { 
+                                      "contents":"TECHNOLOGY",
+                              "questions": [{
+                                                      "question":"In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+                                                      "options":["1850","1880","1950","1980"],
+                                                      "answer":"1880",
+                                                      "hint":"It was formed before Institute of Electrical and Electronics Engineers"
+                                                      },
+                                                                  {
+                                                      "question":"What is part of a database that holds only one type of information?",
+                                                      "options":["report","field","record","file"],
+                                                      "answer":"field",
+                                                      "hint":"in java it is a  is a class, interface, or enum with an associated value"
+                                                      }
+
+                                                ]
+
+                                          },
+                { 
+                                      "contents":"history",
+                              "questions":[{
+                                                      "question":"Who is the founder of Haryanka Dynasty? ",
+                                                      "options":["Ajatshatru","Harshvardhan","Bimbisar"],
+                                                      "answer":"Bimbisar",
+                                                      "hint":"It is in south"
+                                                      },
+                                                                  {
+                                                      "question":"What is the PM of India?",
+                                                      "options":["MODI","KD"],
+                                                      "answer":"MODI",
+                                                      "hint":"He will be always flying"
+                                                      }
+                                                ]
+
+                                          },
+				{
+				              "contents":"HARYANA",
+                              "questions":[{
+                              				"question":"What is the Capital of Haryana?",
+                              				"options":["Chandigarh","Chennai"],
+                              				"answer":"Chandigarh",
+                              				"hint":"Nearby Delhi"
+                              				},
+                              			    {
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}]
+
+							},
+				
+
+				]
+}
