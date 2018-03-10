@@ -28,7 +28,7 @@
                               				},
 											{
                               				"question":"What is the PM of India?",
-                              				"options":["MODI","KD"],
+                              				"options":["MODI","jaya"],
                               				"answer":"MODI",
                               				"hint":"He will be always flying"
                               				}
@@ -62,32 +62,11 @@
                                                       "answer":"Bimbisar",
                                                       "hint":"It is in south"
                                                       },
-                                                                  {
-                                                      "question":"What is the PM of India?",
-                                                      "options":["MODI","KD"],
-                                                      "answer":"MODI",
-                                                      "hint":"He will be always flying"
-                                                      }
+                                                               
                                                 ]
 
                                           },
 				{ 
-				              "contents":"RAJASTHAN",
-                              "questions":[{
-                              				"question":"What is the Capital of Rajasthan?",
-                              				"options":["Jaipur","Madurai"],
-                              				"answer":"Jaipur",
-                              				"hint":"It is called as Pink City of India"
-                              				},
-                              				{
-                              				"question":"What is the PM of India?",
-                              				"options":["MODI","KD"],
-                              				"answer":"MODI",
-                              				"hint":"He will be always flying"
-                              				}
-                              			]
-
-							},
 				
                         { 
                                       "contents":"TECHNOLOGY",
@@ -117,29 +96,14 @@
                                                       },
                                                                   {
                                                       "question":"What is the PM of India?",
-                                                      "options":["MODI","KD"],
+                                                      "options":["MODI","jaya"],
                                                       "answer":"MODI",
                                                       "hint":"He will be always flying"
                                                       }
                                                 ]
 
                                           },
-				{ 
-				              "contents":"GOA",
-                              "questions":[{
-                              				"question":"What is the Capital of Goa?",
-                              				"options":["Delhi","Panaji"],
-                              				"answer":"Panaji",
-                              				"hint":"It is in Goa"
-                              				},
-                              				{
-                              				"question":"What is the PM of India?",
-                              				"options":["MODI","KD"],
-                              				"answer":"MODI",
-                              				"hint":"He will be always flying"
-                              				}]
-
-							},
+				
 				
                         { 
                                       "contents":"TECHNOLOGY",
@@ -169,7 +133,7 @@
                                                       },
                                                                   {
                                                       "question":"What is the PM of India?",
-                                                      "options":["MODI","KD"],
+                                                      "options":["MODI","jaya"],
                                                       "answer":"MODI",
                                                       "hint":"He will be always flying"
                                                       }
@@ -205,7 +169,7 @@
                                                       },
                                                                   {
                                                       "question":"What is the PM of India?",
-                                                      "options":["MODI","KD"],
+                                                      "options":["MODI","JAYA"],
                                                       "answer":"MODI",
                                                       "hint":"He will be always flying"
                                                       }
@@ -241,7 +205,7 @@
                                                       },
                                                                   {
                                                       "question":"What is the PM of India?",
-                                                      "options":["MODI","KD"],
+                                                      "options":["MODI","JAYA"],
                                                       "answer":"MODI",
                                                       "hint":"He will be always flying"
                                                       }
@@ -277,29 +241,14 @@
                                                       },
                                                                   {
                                                       "question":"What is the PM of India?",
-                                                      "options":["MODI","KD"],
+                                                      "options":["MODI","JAYA"],
                                                       "answer":"MODI",
                                                       "hint":"He will be always flying"
                                                       }
                                                 ]
 
                                           },
-				{
-				              "contents":"HARYANA",
-                              "questions":[{
-                              				"question":"What is the Capital of Haryana?",
-                              				"options":["Chandigarh","Chennai"],
-                              				"answer":"Chandigarh",
-                              				"hint":"Nearby Delhi"
-                              				},
-                              			    {
-                              				"question":"What is the PM of India?",
-                              				"options":["MODI","KD"],
-                              				"answer":"MODI",
-                              				"hint":"He will be always flying"
-                              				}]
-
-							},
+				
 				
 
 				]
